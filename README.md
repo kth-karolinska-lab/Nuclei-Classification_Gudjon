@@ -1,0 +1,2 @@
+# Nuclei-Classification_Gudjon
+The main goal of this research was to implement algorithms focused on classifying already identified nuclei in whole slide images of soft oral tissue. This was also the first step in a bigger project focused on producing an application that could assist pathologists to analyze soft oral tissue samples. Since this was the first step in this project, a big part of the thesis was to establish a dataset that could be used not only for the purpose of this thesis but for further work in the project.
